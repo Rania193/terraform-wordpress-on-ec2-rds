@@ -20,7 +20,7 @@ The project is organized into the following modules:
 
 1. Clone the repository to your local machine:
     
-    `git clone https://github.com/your-username/terraform-wordpress-on-ec2-rds`
+    `git clone https://github.com/Rania193/terraform-wordpress-on-ec2-rds`
     
 2. Navigate to the `wordpress-site` directory:
     
